@@ -9,11 +9,11 @@
         <img src="https://github-readme-stats-bay88.vercel.app/api?username=Mr-Mahabeer&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=merko" alt="GitHub Stats for Mahabeer" />
       </td>
       <td width="50%" valign="middle" align="center">
-        <b>🎨 Front-End Developer</b>
+        <b>Full Stack Developer</b>
         <br />
         <br />
         <p>
-          <em>Experienced in developing engaging and responsive web applications.</em>
+          <em>Experienced in developing engaging and responsive web & mobile applications using ReactJs, NextJs, SvelteJs, React Native and Bubble</em>
         </p>
       </td>
     </tr>
