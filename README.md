@@ -6,7 +6,7 @@
   <tbody>
     <tr>
       <td width="50%" valign="middle" align="center">
-        <img src="https://github-readme-stats-bay88.vercel.app/api?username=Mr-Mahabeer&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=merko" alt="GitHub Stats for Mahabeer" />
+        <img src="https://github-readme-stats-bay88.vercel.app/api?username=mahabeer-dev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=merko" alt="GitHub Stats for Mahabeer" />
       </td>
       <td width="50%" valign="middle" align="center">
         <b>Full Stack Developer</b>
@@ -27,12 +27,12 @@
         </p>
       </td>
       <td width="50%" valign="middle" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Mahabeer&theme=merko&hide_border=true" alt="GitHub Streak Stats for Mahabeer" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahabeer-dev&theme=merko&hide_border=true" alt="GitHub Streak Stats for Mahabeer" />
       </td>
     </tr>
     <tr>
       <td width="50%" valign="middle" align="center">
-        <img align="center" src="https://github-readme-stats-bay88.vercel.app/api/top-langs?username=Mr-Mahabeer&include_all_commits=true&count_private=true&show_icons=true&layout=compact&theme=merko&hide_border=true" alt="Top Languages for Mahabeer" />
+        <img align="center" src="https://github-readme-stats-bay88.vercel.app/api/top-langs?username=mahabeer-dev&include_all_commits=true&count_private=true&show_icons=true&layout=compact&theme=merko&hide_border=true" alt="Top Languages for Mahabeer" />
       </td>
       <td width="50%" valign="middle" align="center">
         <b>🥷 Skilled in modern web technologies...</b>
@@ -53,4 +53,4 @@
         </p>
       </td>
       <td width="50%" valign="middle" align="center">
-        <img align="center" src="https://github-readme-stats-bay88.vercel.app/api?username=Mr-Mahabeer&include_all_commits=true&count_private=true&show_icons=true&layout=compact&theme=me
+        <img align="center" src="https://github-readme-stats-bay88.vercel.app/api?username=mahabeer-dev&include_all_commits=true&count_private=true&show_icons=true&layout=compact&theme=me
