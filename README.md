@@ -53,4 +53,34 @@
         </p>
       </td>
       <td width="50%" valign="middle" align="center">
-        <img align="center" src="https://github-readme-stats-bay88.vercel.app/api?username=mahabeer-dev&include_all_commits=true&count_private=true&show_icons=true&layout=compact&theme=me
+        <img src="https://github-readme-stats-bay88.vercel.app/api?username=mahabeer-dev&include_all_commits=true&count_private=true&show_icons=true&layout=compact&theme=merko" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahabeer-dev&theme=onedark&margin-w=10&row=2&column=3" />
+</p>
+
+---
+
+### 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mahabeer-dev&bg_color=0d1117&color=68b486&line=ffffff&point=68b486&area=true&hide_border=true" />
+</p>
+
+---
+
+### ⏱️ Wakatime Stats
+
+> **⚠️ Replace `your-wakatime-username` with your actual Wakatime username**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=merko&layout=compact&hide_border=true" />
+</p>
